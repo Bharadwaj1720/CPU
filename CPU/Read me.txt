@@ -1,0 +1,2 @@
+The code for CPU is present in the file "CPU.v"
+Test-bench for the CPU is written in file "TB_CPU.v"

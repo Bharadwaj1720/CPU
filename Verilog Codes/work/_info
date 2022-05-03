@@ -1,0 +1,1235 @@
+m255
+K4
+z2
+!s11f MIXED_VERSIONS
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d/home/cloud/Desktop/COLabs/CPU
+vAdderSubSign
+Z0 !s110 1651339950
+!i10b 1
+!s100 gQ?7mH=GD84fhNOo6Jb]K2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IfdSL<8mdl=5lndl5?1APW3
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes
+Z4 w1650994942
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/AdderSubSign.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/AdderSubSign.v
+!i122 413
+L0 1 20
+Z5 OV;L;2020.1;71
+r1
+!s85 0
+31
+!s108 1651339946.000000
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/AdderSubSign.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/AdderSubSign.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@adder@sub@sign
+vALU
+R0
+!i10b 1
+!s100 F]bae8KG^?M9^6YS5VTNn1
+R1
+Ij12S;dD54DIkIRYbl3_ak3
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/ALU.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/ALU.v
+!i122 414
+Z8 L0 1 19
+R5
+r1
+!s85 0
+31
+Z9 !s108 1651339950.000000
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/ALU.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/ALU.v|
+!i113 1
+R6
+R7
+n@a@l@u
+vAND
+R0
+!i10b 1
+!s100 iT=3NDi3z_U8@mT>P>?WD1
+R1
+ITF@Gef2HF@^2=4_8Sk?Xi0
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/AND.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/AND.v
+!i122 415
+Z10 L0 1 10
+R5
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/AND.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/AND.v|
+!i113 1
+R6
+R7
+n@a@n@d
+vBitwise
+R0
+!i10b 1
+!s100 CQLEO=^?jH0>FiTn5JDIM1
+R1
+IB?bP:c5QS=7MmOYin;9RP0
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Bitwise.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Bitwise.v
+!i122 416
+Z11 L0 1 12
+R5
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Bitwise.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Bitwise.v|
+!i113 1
+R6
+R7
+n@bitwise
+vCPU
+R0
+!i10b 1
+!s100 k=h2T?aPlX=a^>HcQl1Y=2
+R1
+IJz9XLnHUo^OAEd`hFb84C1
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/CPU.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/CPU.v
+!i122 417
+Z12 L0 1 29
+R5
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/CPU.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/CPU.v|
+!i113 1
+R6
+R7
+n@c@p@u
+vD_Flipflop
+Z13 !s110 1651339951
+!i10b 1
+!s100 M@<>ki7@^iA:91JQX=WJg3
+R1
+IV?c?i<d`I`Y^6AOJF81o40
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/D_Flipflop.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/D_Flipflop.v
+!i122 418
+Z14 L0 1 17
+R5
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/D_Flipflop.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/D_Flipflop.v|
+!i113 1
+R6
+R7
+n@d_@flipflop
+vD_FlipflopFeed
+R13
+!i10b 1
+!s100 VHY>zDT8G=D4TV9cc01_V2
+R1
+In5?fPEFP:Q`?A@]NRULD32
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/D_FlipflopFeed.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/D_FlipflopFeed.v
+!i122 419
+Z15 L0 1 8
+R5
+r1
+!s85 0
+31
+Z16 !s108 1651339951.000000
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/D_FlipflopFeed.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/D_FlipflopFeed.v|
+!i113 1
+R6
+R7
+n@d_@flipflop@feed
+vDecoder2x1
+R13
+!i10b 1
+!s100 72PgWiHNC;2LlJ@UWYj893
+R1
+If7MI0?39]CfY1<IPNiQoA2
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Decoder2x1.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Decoder2x1.v
+!i122 420
+R15
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Decoder2x1.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Decoder2x1.v|
+!i113 1
+R6
+R7
+n@decoder2x1
+vDecoder4x2
+R13
+!i10b 1
+!s100 4mAhBMoN]S>4LbXD9EL5c3
+R1
+IRPUJi7^Un5>WmWc=>AKGl1
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Decoder4x2.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Decoder4x2.v
+!i122 421
+R10
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Decoder4x2.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Decoder4x2.v|
+!i113 1
+R6
+R7
+n@decoder4x2
+vDecoder8x3
+R13
+!i10b 1
+!s100 ;W9VAd2Vd_5H:ekCT@nB]2
+R1
+IMXNVAa2fBCR7[z1OPR>mE1
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Decoder8x3.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Decoder8x3.v
+!i122 422
+R10
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Decoder8x3.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Decoder8x3.v|
+!i113 1
+R6
+R7
+n@decoder8x3
+vDemux1x2
+R13
+!i10b 1
+!s100 cTcR0W2_]]mi0[afz^PoR3
+R1
+IUgBbjC^zI7gn5XeQ<fC]i0
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Demux1x2.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Demux1x2.v
+!i122 423
+L0 1 14
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Demux1x2.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Demux1x2.v|
+!i113 1
+R6
+R7
+n@demux1x2
+vDemux1x4
+R13
+!i10b 1
+!s100 Col:XR9fUX3:gTT8BNn`F1
+R1
+I=75;>DD^FkZ_>>_@3n;3l0
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Demux1x4.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Demux1x4.v
+!i122 424
+R10
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Demux1x4.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Demux1x4.v|
+!i113 1
+R6
+R7
+n@demux1x4
+vDemux1x8
+R13
+!i10b 1
+!s100 ldG10aEE^QTBaQ01WYnaE2
+R1
+IBMc[N69fbcd9S=hRE2]6c3
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Demux1x8.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Demux1x8.v
+!i122 425
+R10
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Demux1x8.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Demux1x8.v|
+!i113 1
+R6
+R7
+n@demux1x8
+vFullAdder
+R13
+!i10b 1
+!s100 :SPeiSiPo4_IaoFFn5;JW3
+R1
+ICY[UbQ[:;bY<Y6nWZc;oE0
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/FullAdder.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/FullAdder.v
+!i122 426
+L0 1 9
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/FullAdder.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/FullAdder.v|
+!i113 1
+R6
+R7
+n@full@adder
+vHalfAdder
+R13
+!i10b 1
+!s100 `^g`921X:021aTM3GQFWF2
+R1
+IIf_[NYCdV^SX64aaoI8V73
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/HalfAdder.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/HalfAdder.v
+!i122 427
+R15
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/HalfAdder.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/HalfAdder.v|
+!i113 1
+R6
+R7
+n@half@adder
+vLoadLogic
+R13
+!i10b 1
+!s100 eQ4zX?Y3G1]bNBETHfKNK3
+R1
+ITdnS@]lgL>c8zo=PX1CCj0
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/LoadLogic.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/LoadLogic.v
+!i122 428
+R14
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/LoadLogic.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/LoadLogic.v|
+!i113 1
+R6
+R7
+n@load@logic
+vMux_2x1
+R13
+!i10b 1
+!s100 VBgS[i`[ZKfZ:l;D1o;2I2
+R1
+I^zzORRiXMjVXG>jaE^6fo2
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Mux_2x1.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Mux_2x1.v
+!i122 429
+Z17 L0 1 15
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Mux_2x1.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Mux_2x1.v|
+!i113 1
+R6
+R7
+n@mux_2x1
+vMux_4x1
+R13
+!i10b 1
+!s100 bl^Lo5SL=gMXQWnY0j4^Q3
+R1
+IaE93gd65c=k^UKE1WLD_z1
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Mux_4x1.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Mux_4x1.v
+!i122 430
+R12
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Mux_4x1.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Mux_4x1.v|
+!i113 1
+R6
+R7
+n@mux_4x1
+vMux_8x1
+Z18 !s110 1651339952
+!i10b 1
+!s100 9>MbCW;dbF0J_F2:VA1bU1
+R1
+ILQDRHdG_RlIBLj?7bSjkF3
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Mux_8x1.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Mux_8x1.v
+!i122 431
+R12
+R5
+r1
+!s85 0
+31
+R16
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Mux_8x1.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Mux_8x1.v|
+!i113 1
+R6
+R7
+n@mux_8x1
+vMuxing
+R18
+!i10b 1
+!s100 ES]aVm41SWYK1QeK@S4]C1
+R1
+IE6Kk6>D>hBHh@=@=^0Q121
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Muxing.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Muxing.v
+!i122 432
+L0 1 41
+R5
+r1
+!s85 0
+31
+Z19 !s108 1651339952.000000
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Muxing.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Muxing.v|
+!i113 1
+R6
+R7
+n@muxing
+vNOR
+R18
+!i10b 1
+!s100 FBiLQRaCCOS90B>biMD@81
+R1
+I3WSGUm]C5AeLbfKJTCCJH0
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/NOR.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/NOR.v
+!i122 433
+R10
+R5
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/NOR.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/NOR.v|
+!i113 1
+R6
+R7
+n@n@o@r
+vNOT
+R18
+!i10b 1
+!s100 LFl=<[nPdc:BJ8<=2CQZL0
+R1
+InGWa]clHe<Z7N`I8WG2D33
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/NOT.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/NOT.v
+!i122 434
+R10
+R5
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/NOT.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/NOT.v|
+!i113 1
+R6
+R7
+n@n@o@t
+vOptimized_ALU
+R18
+!i10b 1
+!s100 aHc5Ck5>4NZ`La^<cW2h73
+R1
+I9oCB89a7TIb@7I<l1l5O@0
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Optimized_ALU.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Optimized_ALU.v
+!i122 435
+L0 1 31
+R5
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Optimized_ALU.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Optimized_ALU.v|
+!i113 1
+R6
+R7
+n@optimized_@a@l@u
+vOR
+R18
+!i10b 1
+!s100 1^FZMlJLUbim9]l0jlYlo0
+R1
+I@:iB[[<Rm5Ue0JM9OQQjY2
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/OR.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/OR.v
+!i122 436
+R11
+R5
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/OR.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/OR.v|
+!i113 1
+R6
+R7
+n@o@r
+vRegister_32bit
+R18
+!i10b 1
+!s100 EF:VW]XUSR5o<;cB@e26U2
+R1
+IQWjL:5RMVdjRFc7?6@RXg1
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Register_32bit.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Register_32bit.v
+!i122 438
+R11
+R5
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Register_32bit.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Register_32bit.v|
+!i113 1
+R6
+R7
+n@register_32bit
+vRegister_4bit
+R18
+!i10b 1
+!s100 bL2WNKmLWBm^PkMkaN4On2
+R1
+IbV4Gb`eDm`RZL?kmIkl?X2
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Register_4bit.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Register_4bit.v
+!i122 437
+R11
+R5
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Register_4bit.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Register_4bit.v|
+!i113 1
+R6
+R7
+n@register_4bit
+vRegisterFile2Reg
+R18
+!i10b 1
+!s100 S]zWd@mbC0R7K2zacgGc:2
+R1
+ITI9U`S[N@8g;G:b;k@R^[0
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/RegisterFile2Reg.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/RegisterFile2Reg.v
+!i122 439
+R8
+R5
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/RegisterFile2Reg.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/RegisterFile2Reg.v|
+!i113 1
+R6
+R7
+n@register@file2@reg
+vRegisterFile8Reg
+R18
+!i10b 1
+!s100 JJCa<3@RR=h8knS4N`b;a0
+R1
+IH]iNBLzNDSXQFEF_i;mKF3
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/RegisterFile8Reg.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/RegisterFile8Reg.v
+!i122 440
+L0 1 53
+R5
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/RegisterFile8Reg.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/RegisterFile8Reg.v|
+!i113 1
+R6
+R7
+n@register@file8@reg
+vRippleCarrySign
+R18
+!i10b 1
+!s100 bjmW<b9_=IWFOldhe;Lo31
+R1
+I1kD[FBV0N97VeT??UJ7jR2
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/RippleCarrySign.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/RippleCarrySign.v
+!i122 441
+L0 1 22
+R5
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/RippleCarrySign.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/RippleCarrySign.v|
+!i113 1
+R6
+R7
+n@ripple@carry@sign
+vSwapping
+R18
+!i10b 1
+!s100 W<0Bnc_2kmKDBh0Fmi^S_0
+R1
+IEH8;;l61;z;LI9F]Vz1he3
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Swapping.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Swapping.v
+!i122 442
+L0 1 33
+R5
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Swapping.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/Swapping.v|
+!i113 1
+R6
+R7
+n@swapping
+vTB_AdderSubSign
+Z20 !s110 1651339953
+!i10b 1
+!s100 f<zHAJ0Y1a5;UTMiQm0kI0
+R1
+IEW`Zj];CAW6P5[4Z9D=U[3
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_AdderSubSign.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_AdderSubSign.v
+!i122 443
+Z21 L0 1 16
+R5
+r1
+!s85 0
+31
+R19
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_AdderSubSign.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_AdderSubSign.v|
+!i113 1
+R6
+R7
+n@t@b_@adder@sub@sign
+vTB_ALU
+R20
+!i10b 1
+!s100 9Ion`F^>3B1ol5eYG^jXj3
+R1
+IKWQ_FdFg@ijFdmMG5=`Xz0
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_ALU.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_ALU.v
+!i122 444
+Z22 L0 1 21
+R5
+r1
+!s85 0
+31
+Z23 !s108 1651339953.000000
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_ALU.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_ALU.v|
+!i113 1
+R6
+R7
+n@t@b_@a@l@u
+vTB_AND
+R20
+!i10b 1
+!s100 d=`Sj2YFSFgoldONfBE8a3
+R1
+IJKXNT]=k4>P60z0[K;HI90
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_AND.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_AND.v
+!i122 445
+Z24 L0 1 13
+R5
+r1
+!s85 0
+31
+R23
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_AND.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_AND.v|
+!i113 1
+R6
+R7
+n@t@b_@a@n@d
+vTB_Bitwise
+R20
+!i10b 1
+!s100 GZQKCEgCaVE=kgdcZQM492
+R1
+Ie;S<j9HbgiWCVWN0f]<^R0
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_Bitwise.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_Bitwise.v
+!i122 446
+R24
+R5
+r1
+!s85 0
+31
+R23
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_Bitwise.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_Bitwise.v|
+!i113 1
+R6
+R7
+n@t@b_@bitwise
+vTB_CPU
+R20
+!i10b 1
+!s100 =_@aOhm[mmlOz8AY2f^bQ3
+R1
+IjiX6KoUaJk[RjgEP63Y]12
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_CPU.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_CPU.v
+!i122 447
+L0 1 39
+R5
+r1
+!s85 0
+31
+R23
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_CPU.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_CPU.v|
+!i113 1
+R6
+R7
+n@t@b_@c@p@u
+vTB_D_Flipflop
+R20
+!i10b 1
+!s100 :ZQgcEjzI`TzjIi@h4PnP0
+R1
+IbZmNzBZ3U>LR@ZV[l]9L?1
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_D_Flipflop.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_D_Flipflop.v
+!i122 448
+R8
+R5
+r1
+!s85 0
+31
+R23
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_D_Flipflop.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_D_Flipflop.v|
+!i113 1
+R6
+R7
+n@t@b_@d_@flipflop
+vTB_D_FlipflopFeed
+R20
+!i10b 1
+!s100 GY[z[1FLhM;Ll29?i]G_03
+R1
+IFO8hHDWRh=c7HDBS^n@P^3
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_D_FlipflopFeed.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_D_FlipflopFeed.v
+!i122 449
+R8
+R5
+r1
+!s85 0
+31
+R23
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_D_FlipflopFeed.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_D_FlipflopFeed.v|
+!i113 1
+R6
+R7
+n@t@b_@d_@flipflop@feed
+vTB_Decoder8x3
+R20
+!i10b 1
+!s100 9620A^[Hl2o0hB=>k:H;l1
+R1
+I<>C=dFTIlif:iK9BaM<Xi0
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_Decoder8x3.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_Decoder8x3.v
+!i122 450
+L0 1 18
+R5
+r1
+!s85 0
+31
+R23
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_Decoder8x3.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_Decoder8x3.v|
+!i113 1
+R6
+R7
+n@t@b_@decoder8x3
+vTB_Demux1x8
+R20
+!i10b 1
+!s100 CFGnBg^V<i1fnL8Z`_:iR1
+R1
+I@jMPc3_z7cL8k:G;kGWbJ1
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_Demux1x8.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_Demux1x8.v
+!i122 451
+R22
+R5
+r1
+!s85 0
+31
+R23
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_Demux1x8.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_Demux1x8.v|
+!i113 1
+R6
+R7
+n@t@b_@demux1x8
+vTB_FullAdder
+R20
+!i10b 1
+!s100 @[?D`:g1W5IOJM9VV?A970
+R1
+I9J:BHmb4G1905QL0HimJ;1
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_FullAdder.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_FullAdder.v
+!i122 452
+R21
+R5
+r1
+!s85 0
+31
+R23
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_FullAdder.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_FullAdder.v|
+!i113 1
+R6
+R7
+n@t@b_@full@adder
+vTB_HalfAdder
+R20
+!i10b 1
+!s100 MgG=__jda3F[=k1F;J@SE3
+R1
+IY1_FmMKKdZ6ReTh0B54fG2
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_HalfAdder.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_HalfAdder.v
+!i122 453
+R24
+R5
+r1
+!s85 0
+31
+R23
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_HalfAdder.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_HalfAdder.v|
+!i113 1
+R6
+R7
+n@t@b_@half@adder
+vTB_Mux_2x1
+R20
+!i10b 1
+!s100 c[oW_:kiGSk3C:3WhCRVE1
+R1
+IPILn9>FnC:A;kBnVD]Q]G3
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_Mux_2x1.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_Mux_2x1.v
+!i122 454
+R17
+R5
+r1
+!s85 0
+31
+R23
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_Mux_2x1.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_Mux_2x1.v|
+!i113 1
+R6
+R7
+n@t@b_@mux_2x1
+vTB_NOR
+R20
+!i10b 1
+!s100 OHzNHhZbPWH8>n517XK=90
+R1
+I0dhBjQd0H0fSkCk10f9Y42
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_NOR.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_NOR.v
+!i122 455
+R24
+R5
+r1
+!s85 0
+31
+R23
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_NOR.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_NOR.v|
+!i113 1
+R6
+R7
+n@t@b_@n@o@r
+vTB_NOT
+Z25 !s110 1651339954
+!i10b 1
+!s100 7;ZllRR`ih<1YGoiAX]U81
+R1
+IVdffgYQhC=mIl<^SBS8193
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_NOT.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_NOT.v
+!i122 456
+R24
+R5
+r1
+!s85 0
+31
+R23
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_NOT.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_NOT.v|
+!i113 1
+R6
+R7
+n@t@b_@n@o@t
+vTB_Optimized_ALU
+R25
+!i10b 1
+!s100 YWK50coZzZ30QI3df2SSP0
+R1
+I]NDQj@l:OIGlZcib_U[Y81
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_Optimized_ALU.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_Optimized_ALU.v
+!i122 457
+R22
+R5
+r1
+!s85 0
+31
+Z26 !s108 1651339954.000000
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_Optimized_ALU.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_Optimized_ALU.v|
+!i113 1
+R6
+R7
+n@t@b_@optimized_@a@l@u
+vTB_OR
+R25
+!i10b 1
+!s100 9RIDZjGkWOl]gi8UZzljk0
+R1
+ILz]1H15:eU8SXk41jmjJV2
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_OR.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_OR.v
+!i122 458
+R24
+R5
+r1
+!s85 0
+31
+R26
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_OR.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_OR.v|
+!i113 1
+R6
+R7
+n@t@b_@o@r
+vTB_Register_32bit
+R25
+!i10b 1
+!s100 nHC2Z3kbdJDUchH1C_;Md1
+R1
+IIk7CP45lo^Tf>]]h1Tf@I1
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_Register_32bit.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_Register_32bit.v
+!i122 460
+R22
+R5
+r1
+!s85 0
+31
+R26
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_Register_32bit.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_Register_32bit.v|
+!i113 1
+R6
+R7
+n@t@b_@register_32bit
+vTB_Register_4bit
+R25
+!i10b 1
+!s100 dAD;S>:5KBA;GhokNzf311
+R1
+I[h6@^NgVn:JPzVDQE_7L;3
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_Register_4bit.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_Register_4bit.v
+!i122 459
+L0 1 24
+R5
+r1
+!s85 0
+31
+R26
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_Register_4bit.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_Register_4bit.v|
+!i113 1
+R6
+R7
+n@t@b_@register_4bit
+vTB_RegisterFile2Reg
+R25
+!i10b 1
+!s100 hBQ]XJHF[k>jflgb0;17d0
+R1
+IYcG^cB;j:@3B4AH:d2]HU3
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_RegisterFile2Reg.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_RegisterFile2Reg.v
+!i122 461
+L0 1 26
+R5
+r1
+!s85 0
+31
+R26
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_RegisterFile2Reg.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_RegisterFile2Reg.v|
+!i113 1
+R6
+R7
+n@t@b_@register@file2@reg
+vTB_RegisterFile8Reg
+R25
+!i10b 1
+!s100 _4S]<08NV7@WAhSX>kTXg1
+R1
+I`FGPTNWh@A8`z3AJP7:lF1
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_RegisterFile8Reg.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_RegisterFile8Reg.v
+!i122 462
+L0 1 30
+R5
+r1
+!s85 0
+31
+R26
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_RegisterFile8Reg.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_RegisterFile8Reg.v|
+!i113 1
+R6
+R7
+n@t@b_@register@file8@reg
+vTB_RippleCarrySign
+R25
+!i10b 1
+!s100 hJmC2^L7g0dV3N[N4U][o2
+R1
+IhX56oeiBKYe2R626;zSBO3
+R2
+R3
+R4
+8C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_RippleCarrySign.v
+FC:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_RippleCarrySign.v
+!i122 463
+R8
+R5
+r1
+!s85 0
+31
+R26
+!s107 C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_RippleCarrySign.v|
+!s90 -reportprogress|300|-work|work|C:/Users/Bharadwaj/Downloads/Lab Final/Lab Final/Verilog Codes/TB_RippleCarrySign.v|
+!i113 1
+R6
+R7
+n@t@b_@ripple@carry@sign

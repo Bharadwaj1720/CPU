@@ -1,0 +1,9 @@
+The code for Swapping is present in the file "Swapping.v"
+
+Logic:
+Custom value is loaded into reg1 - say a;
+Custom value is loaded into reg2 - say b;
+Perform the below operations one after another for swapping.
+a=a+b;
+b=a-b;
+a=a-b;
